@@ -1,0 +1,87 @@
+{
+    "constructors": [],
+    "externalReferences": [],
+    "id": "FollowersCmpController",
+    "innerClasses": [],
+    "interfaces": [],
+    "key": "FollowersCmpController",
+    "methods": [
+        {
+            "annotations": [
+                {
+                    "name": "AuraEnabled"
+                }
+            ],
+            "location": {
+                "column": 44,
+                "line": 4
+            },
+            "modifiers": [
+                "static",
+                "public"
+            ],
+            "name": "getFollowers",
+            "parameters": [
+                {
+                    "name": "recordId",
+                    "type": "String"
+                }
+            ],
+            "references": [],
+            "returnType": "List",
+            "type": null
+        }
+    ],
+    "name": "FollowersCmpController",
+    "namespace": null,
+    "parentClass": "",
+    "properties": [],
+    "tableDeclaration": {
+        "annotations": [],
+        "location": {
+            "column": 14,
+            "line": 1
+        },
+        "modifiers": [
+            "public"
+        ],
+        "name": "FollowersCmpController",
+        "references": [],
+        "type": "FollowersCmpController"
+    },
+    "variables": [
+        {
+            "annotations": [],
+            "location": {
+                "column": 64,
+                "line": 4
+            },
+            "modifiers": [],
+            "name": "recordId",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 16,
+                "line": 6
+            },
+            "modifiers": [],
+            "name": "result",
+            "references": [],
+            "type": "String"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 38,
+                "line": 10
+            },
+            "modifiers": [],
+            "name": "es",
+            "references": [],
+            "type": "List<EntitySubscription>"
+        }
+    ]
+}

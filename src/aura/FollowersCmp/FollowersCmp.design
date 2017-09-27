@@ -1,0 +1,12 @@
+<design:component label="Followers">
+	
+    <design:attribute name="componentCardTitle"
+                      label="Title"
+                      default="Followers"
+                      description="Title of the component on the page."/>
+    
+    <design:attribute name="componentHeight"
+                      label="Height"
+                      default="200px"
+                      description="Height of the component on the page."/>
+</design:component>
