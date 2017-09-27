@@ -1,6 +1,6 @@
 # FollowersComponent
 ## Overview
-A lightning component for showing the followers on a record. Currently there is no way to see the users who are following a record so they can see updates in your feed, including field changes, posts, tasks, and comments on records..
+A lightning component for showing the followers on a record. As of now (Winter '17 release), there is no way (in Lightning Experience) to see the users who are following a record so they can see updates in your feed, including field changes, posts, tasks, and comments on records..
 This Lightning Component will enable users to see the users who are following a record in Ligthning Experience.
 
 ## Packaged Release History
